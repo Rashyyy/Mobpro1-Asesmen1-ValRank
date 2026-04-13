@@ -16,6 +16,6 @@
     <string name="status_tim_label">Team Status: %1$s</string>
     <string name="bagikan_target">Share Target</string>
     <string name="share_message">Targeting %1$s! Need around %2$d wins (%3$d RR) with %4$s condition. Let\\\\\\\'s Rank Up!</string>
-    <string name="desc_aplikasi">Valorant Rank Calculator is a utility app designed to help players estimate the number of wins needed to reach a specific target rank. By considering team conditions, this app provides a realistic overview of the player\\\\\\\'s competitive journey.</string>
+    <string name="deskripsi_aplikasi">Valorant Rank Calculator is a utility app designed to help players estimate the number of wins needed to reach a specific target rank. By considering team conditions, this app provides a realistic overview of the player\\\\\\\'s competitive journey.</string>
     <string name="copyright">© 2026 Rasya - Mobpro 1 Assignment Telkom University</string>
 </resources>

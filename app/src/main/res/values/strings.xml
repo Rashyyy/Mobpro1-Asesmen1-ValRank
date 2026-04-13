@@ -18,6 +18,6 @@
     <string name="bagikan_target">Bagikan Target</string>
     <string name="share_message">Target %1$s! Butuh sekitar %2$d win (%3$d RR) dengan kondisi %4$s. Gas Rank!</string>
 
-    <string name="desc_aplikasi">Valorant Rank Calculator adalah aplikasi utilitas yang dirancang untuk membantu pemain mengestimasi jumlah kemenangan yang dibutuhkan untuk mencapai target rank tertentu. Dengan mempertimbangkan kondisi tim, aplikasi ini memberikan gambaran realistis mengenai perjalanan kompetitif pemain.</string>
+    <string name="deskripsi_aplikasi">Valorant Rank Calculator adalah aplikasi utilitas yang dirancang untuk membantu pemain mengestimasi jumlah kemenangan yang dibutuhkan untuk mencapai target rank tertentu. Dengan mempertimbangkan kondisi tim, aplikasi ini memberikan gambaran realistis mengenai perjalanan kompetitif pemain.</string>
     <string name="copyright">© 2026 Rasya - Tugas Mobpro 1 Telkom University</string>
 </resources>
