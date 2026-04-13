@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valorant Rank Count</string>
+    <string name="rank_intro">Track your Valorant rank progress!</string>
+    <string name="rank_sekarang">Current Rank</string>
+    <string name="rank_tujuan">Target Rank</string>
+    <string name="tim_jago">Pro Team</string>
+    <string name="tim_bapuk">Bad Team</string>
+    <string name="hitung_estimasi">Calculate Estimated Wins</string>
+    <string name="input_invalid">Input cannot be empty!</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="kembali">Back</string>
+    <string name="estimasi_judul">Journey Estimation:</string>
+    <string name="total_rr_needed">Total RR Needed: %1$d RR</string>
+    <string name="total_win_needed">Minimum Wins: %1$d Wins</string>
+    <string name="status_tim_label">Team Status: %1$s</string>
+    <string name="bagikan_target">Share Target</string>
+    <string name="share_message">Targeting %1$s! Need around %2$d wins (%3$d RR) with %4$s condition. Let\\\'s Rank Up!</string>
+    <string name="desc_aplikasi">Valorant Rank Calculator is a utility app designed to help players estimate the number of wins needed to reach a specific target rank. By considering team conditions, this app provides a realistic overview of the player\\\'s competitive journey.</string>
+    <string name="copyright">© 2026 Rasya - Mobpro 1 Assignment Telkom University</string>
+    <string name="rank_intro">Track your Valorant rank progress!</string>
+    <string name="rank_sekarang">Current Rank</string>
+    <string name="rank_tujuan">Target Rank</string>
+    <string name="tim_jago">Pro Team</string>
+    <string name="tim_bapuk">Bad Team</string>
+    <string name="hitung_estimasi">Calculate Estimated Wins</string>
+    <string name="input_invalid">Input cannot be empty!</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="kembali">Back</string>
+    <string name="estimasi_judul">Journey Estimation:</string>
+    <string name="total_rr_needed">Total RR Needed: %1$d RR</string>
+    <string name="total_win_needed">Minimum Wins: %1$d Wins</string>
+    <string name="status_tim_label">Team Status: %1$s</string>
+    <string name="bagikan_target">Share Target</string>
+    <string name="share_message">Targeting %1$s! Need around %2$d wins (%3$d RR) with %4$s condition. Let\\\\\\\'s Rank Up!</string>
+    <string name="desc_aplikasi">Valorant Rank Calculator is a utility app designed to help players estimate the number of wins needed to reach a specific target rank. By considering team conditions, this app provides a realistic overview of the player\\\\\\\'s competitive journey.</string>
+    <string name="copyright">© 2026 Rasya - Mobpro 1 Assignment Telkom University</string>
+</resources>

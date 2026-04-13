@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">ValRank</string>
+    <string name="app_name">"Penghitung Rank Valorant"</string>
+    <string name="rank_intro">Pantau progres rank Valorant kamu!</string>
+    <string name="rank_sekarang">Rank Sekarang</string>
+    <string name="rank_tujuan">Rank Tujuan</string>
+    <string name="tim_jago">Tim Jago</string>
+    <string name="tim_bapuk">Tim Bapuk</string>
+    <string name="hitung_estimasi">Hitung Estimasi Win</string>
+    <string name="input_invalid">Input tidak boleh kosong!</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="kembali">Kembali</string>
+
+    <string name="estimasi_judul">Estimasi Perjalanan:</string>
+    <string name="total_rr_needed">Total RR yang dibutuhkan: %1$d RR</string>
+    <string name="total_win_needed">Minimal Menang: %1$d Kali Win</string>
+    <string name="status_tim_label">Status Tim: %1$s</string>
+
+    <string name="bagikan_target">Bagikan Target</string>
+    <string name="share_message">Target %1$s! Butuh sekitar %2$d win (%3$d RR) dengan kondisi %4$s. Gas Rank!</string>
+
+    <string name="desc_aplikasi">Valorant Rank Calculator adalah aplikasi utilitas yang dirancang untuk membantu pemain mengestimasi jumlah kemenangan yang dibutuhkan untuk mencapai target rank tertentu. Dengan mempertimbangkan kondisi tim, aplikasi ini memberikan gambaran realistis mengenai perjalanan kompetitif pemain.</string>
+    <string name="copyright">© 2026 Rasya - Tugas Mobpro 1 Telkom University</string>
 </resources>
