@@ -14,6 +14,7 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
+import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
@@ -24,7 +25,6 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
-import androidx.wear.compose.material3.MaterialTheme
 import com.rasya0020.valrank.R
 import com.rasya0020.valrank.ui.theme.ValRankTheme
 
@@ -72,14 +72,14 @@ fun AboutScreen(navController: NavHostController){
         ) {
             Text(
                 text = stringResource(R.string.deskripsi_aplikasi),
-                style = androidx.compose.material3.MaterialTheme.typography.bodyLarge,
+                style = MaterialTheme.typography.bodyLarge,
                 textAlign = TextAlign.Justify
             )
 
             Text(
                 text = stringResource(R.string.copyright),
-                style = androidx.compose.material3.MaterialTheme.typography.labelMedium,
-                color = androidx.compose.material3.MaterialTheme.colorScheme.outline
+                style = MaterialTheme.typography.labelMedium,
+                color = MaterialTheme.colorScheme.outline
             )
         }
     }
