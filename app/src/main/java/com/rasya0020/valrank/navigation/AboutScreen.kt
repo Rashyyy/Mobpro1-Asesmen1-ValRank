@@ -71,7 +71,7 @@ fun AboutScreen(navController: NavHostController){
             verticalArrangement = Arrangement.spacedBy(16.dp)
         ) {
             Text(
-                text = stringResource(R.string.desc_aplikasi),
+                text = stringResource(R.string.deskripsi_aplikasi),
                 style = androidx.compose.material3.MaterialTheme.typography.bodyLarge,
                 textAlign = TextAlign.Justify
             )
